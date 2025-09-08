@@ -37,8 +37,8 @@ export default function Contact() {
             </p>
             <div className="flex space-x-4 mt-2">
               {/* <a href="https://www.youtube.com/@dr.shanthikrishnaraguaswin2119" target="_blank" className="text-green-600 hover:text-green-800"><FaYoutube size={24} /></a> */}
-              <a href="https://www.facebook.com/profile.php?id=100009240947955" target="_blank" className="text-green-600 hover:text-green-800"><FaFacebook size={24} /></a>
-              <a href="https://www.instagram.com/dr.shanthikrishnaragu/" target="_blank" className="text-green-600 hover:text-green-800"><FaInstagram size={24} /></a>
+              <a href="#" target="_blank" className="text-green-600 hover:text-green-800"><FaFacebook size={24} /></a>
+              <a href="#" target="_blank" className="text-green-600 hover:text-green-800"><FaInstagram size={24} /></a>
             </div>
           </div>
         </div>
