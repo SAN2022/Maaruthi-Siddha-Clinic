@@ -208,7 +208,7 @@ const Section = ({ title, color, data, id }) => {
   // };
 
   return (
-    <section id="diseases" className="py-10 bg-gray-50">
+    <section id="services" className="py-10 bg-gray-50">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">
           Diseases We Treat
