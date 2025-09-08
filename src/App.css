@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  scroll-behavior: smooth;
+}
+.font-tamilSans{
+  font-family: 'Noto Sans Tamil', "sans-serif";
+}
+.font-catamaran{
+  font-family: "Catamaran", "sans-serif";
+}
+.font-pavanam{
+  font-family: "Pavanam", "sans-serif";
+}
