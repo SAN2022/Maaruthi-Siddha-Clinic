@@ -15,7 +15,7 @@ export default function Diseases() {
 
   const womensProblems = [
     "மாதவிடாய் கோளாறு (Menstrual Disorders)",
-    "வந்தமையின்மை (Infertility)",
+    "குழந்தையின்மை (Infertility)",
     "கருப்பை கோளாறு (Uterine Problems)",
     "கருப்பை நார்த்திசு (Uterine Fibroids)",
     "கருப்பை சுருக்கம் (Uterine Contraction Issues)",
@@ -53,7 +53,7 @@ export default function Diseases() {
     "மூல நோய் (Piles)",
     "சர்க்கரை நோய் (Diabetes)",
     "உடல் பருமன் (Obesity)",
-    "அரத்த சோகை (Anemia)",
+    "இரத்த சோகை (Anemia)",
     "உடல் பலவீனம் (General Weakness)",
     "சிரங்கு & தோல் நோய்கள் (Skin Diseases)",
     "ரத்த அழுத்தம் (Blood Pressure)",
