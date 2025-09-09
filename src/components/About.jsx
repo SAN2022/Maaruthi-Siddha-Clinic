@@ -16,18 +16,15 @@ export default function About() {
 
         {/* About Content */}
         <div className="w-full md:w-2/3 text-justify">
-          <h2 className="text-2xl md:text-3xl font-extrabold text-green-700 mb-4 text-center md:text-left">
+          <h2 className="text-2xl md:text-3xl font-tamilSans font-extrabold text-green-700 mb-4 text-center md:text-left">
             ஸ்ரீ மாருதி சித்தா கிளினிக் <br />
-            {/* <span className="text-base text-gray-600 font-medium">
-              & மூலிகை ஆராய்ச்சி மையம்
-            </span> */}
           </h2>
 
           <p className="text-sm md:text-base leading-loose font-tamilSans text-gray-800">
             பஞ்சபூதத் தலங்களில் புவித்தலமாகப் போற்றப்படும் அமி கமலமுனி சித்தர்
             அடக்கமாகியுள்ள அருள்மிகு தியாகராஜர் கோவில் என்றும், தேரோடும் திருவாரூர் என்றும்
             பிறந்தாலும் பெயர் சொன்னாலும் முக்தி தரும் தலம் என போற்றப்படும் இத்திருவாரூர்
-            திருதலத்தில் கடந்த <span className="font-bold text-green-600">21 ஆண்டுகளாக</span>{" "}
+            திருதலத்தில் கடந்த <span className="font-bold text-green-600">27 ஆண்டுகளாக</span>{" "}
             தமிழ் மருத்துவமான <span className="text-green-600 font-bold">சித்த மருத்துவத்துறையில்</span>{" "}
             தனக்கென்று தனிமுத்திரைப்பதித்த ஸ்ரீ மாருதி சித்தா கிளினிக் மற்றும்
             மருந்தகம் செயல்படுகிறது.
